@@ -1,0 +1,57 @@
+html, body {
+    margin: 0;
+}
+#Imagem_fundo {
+    background:url("Img/394594_art_kosmos_planeta_yenergiya_1920x1080_www.Gde-Fon.com.jpg");
+    height: 100%;
+    text-align: center;
+}
+#titulo {
+    color: white;
+    padding-top: 18%;
+    font-size: 70px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline ;
+    padding-bottom: 0%;
+}
+#subtitulo {
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#ação {
+    color: white;
+    border: 2px white solid;
+    padding: 5px 20px 5px 20px;
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.icone{
+    width: 51px;
+   text-align: center;
+}
+#explicacao {
+    background-color: whitesmoke;
+    height: 100%;
+    text-align: center;
+    padding: 50px;
+    font-size: 150%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+#video {
+    float: right;
+    margin: 10px 10px 10px 10px;
+    
+}
+#texto_1{
+    padding-left: 5px;
+    padding-right: 5px;
+    font-weight: 500;
+    
+}
+#selecao {
+    text-align: center;
+    font-size: 40px;
+}
